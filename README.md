@@ -27,7 +27,7 @@ Pour analyser le résultat du HARD STRESS TEST, il suffit de consulter les logs 
 
 <br>
 <div align="center">
-  <img src="https://github.com/hpipou/reservation_hotel_backend/blob/main/SCREENSHOT_MYSQL_BDD.png"/><br>
+  <img src="https://github.com/hpipou/Test_De_Saturation/blob/main/test_de_saturation.jpg"/><br>
 </div>
 
 ## @LAMINE 😉
