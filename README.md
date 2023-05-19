@@ -13,7 +13,8 @@
 
 ### Pour avoir un HARD STRESS TEST, il faut installer l'application des des instances EC2 dans le cloud d'AWS. 100 instances EC2 qui envoient 10000 requetes. Pour analyser le résultat du HARD STRESS TEST, il suffit de consulter les logs ou de récolter les répenses de chaque instances qui sera au format JSON de ce type :
 <br>
-```
+
+```js
 {
 "status": "Simulation completed",
 "nb_request": 1000,
@@ -21,6 +22,7 @@
 "error": 50
 }
 ```
+
 <br>
 <div align="center">
   <img src="https://github.com/hpipou/reservation_hotel_backend/blob/main/SCREENSHOT_MYSQL_BDD.png"/><br>
